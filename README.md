@@ -1,4 +1,4 @@
-# Project9 Animation
+# Anime Stream
 
 This repository contains:
 - `app/`: Flutter Android client (you will generate it locally)
